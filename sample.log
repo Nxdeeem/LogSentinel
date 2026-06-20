@@ -1,0 +1,10 @@
+2026-06-20 10:00:00 INFO User admin logged in from 192.168.1.5
+2026-06-20 10:01:12 WARNING Failed login attempt from 192.168.1.10
+2026-06-20 10:01:20 WARNING Failed login attempt from 192.168.1.10
+2026-06-20 10:01:28 WARNING Failed login attempt from 192.168.1.10
+2026-06-20 10:01:35 WARNING Failed login attempt from 192.168.1.10
+2026-06-20 10:02:00 ERROR Unauthorized access attempt from 192.168.1.15
+2026-06-20 10:05:10 INFO User guest logged out
+2026-06-20 10:06:20 ERROR Failed login attempt from 192.168.1.10
+2026-06-20 10:07:45 INFO System backup completed
+2026-06-20 10:08:15 WARNING Failed login attempt from 192.168.1.25
